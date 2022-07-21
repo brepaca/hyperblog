@@ -1,0 +1,55 @@
+[33mcommit 3109184fa291338b5ff1187b02a286d356121c4a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Brenda Palacio <brepaca725@gmail.com>
+Date:   Wed Jul 20 16:49:11 2022 -0500
+
+    commit al master del blogpost a su version mas reciente
+
+ blogpost.html   |  8 [32m++++++[m[31m--[m
+ css/estilos.css | 20 [32m+++++++++++++++++[m[31m---[m
+ 2 files changed, 23 insertions(+), 5 deletions(-)
+
+[33mcommit 714e887b43dd042b4c1d8b546ecff18093750013[m
+Author: Brenda Palacio <brepaca725@gmail.com>
+Date:   Sun Jul 3 11:56:35 2022 -0500
+
+    Cambios de maestria
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit eb9cb2279517cb08bcf8c52269ac658d4cc48ecc[m
+Author: Brenda Palacio <brepaca725@gmail.com>
+Date:   Sun Jul 3 11:54:21 2022 -0500
+
+    Cambio de vida
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 1bbc1ead6f7218f32b2f9b494fe94baee04dd193[m
+Author: Brenda Palacio <brepaca725@gmail.com>
+Date:   Sun Jul 3 11:52:58 2022 -0500
+
+    Arranco mi proyecto real con html y css
+
+ blogpost.html   | 15 [32m+++++++++++++++[m
+ css/estilos.css |  5 [32m+++++[m
+ 2 files changed, 20 insertions(+)
+
+[33mcommit 76d1adf0a29f64d8f5bf6d61e33fab1fc59d809a[m
+Author: Brenda Palacio <brepaca725@gmail.com>
+Date:   Sun Jul 3 05:05:35 2022 -0500
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit f36c3ced04d9886e7def4aa2a1327b1e9dfd226a[m
+Author: Brenda Palacio <brepaca725@gmail.com>
+Date:   Sun Jul 3 05:02:31 2022 -0500
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
